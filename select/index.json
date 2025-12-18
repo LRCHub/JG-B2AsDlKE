@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "たぶんMaybe明治",
+  "base_artist": "レキシ",
+  "createdAt": "2025-12-18T14:40:14.246299Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "たぶんMAYBE明治",
+      "artist": "レキシ",
+      "has_synced": false,
+      "path": "select/pl_01_たぶんMAYBE明治_レキシ.txt"
+    }
+  ]
+}
